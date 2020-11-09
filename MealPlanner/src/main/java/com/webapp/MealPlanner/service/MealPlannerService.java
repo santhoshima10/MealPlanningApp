@@ -10,14 +10,6 @@ import com.webapp.MealPlanner.Spoonacular.SpoonacularApiIntegration;
 import com.webapp.MealPlanner.dto.SpoonacularDayResponse;
 import com.webapp.MealPlanner.dto.SpoonacularWeekResponse;
 
-//Api Key e42a859af34c4c9fa0103f568b63d155
-
-/*
- * "status": "success",
-    "username": "api-59775-demouser",
-    "hash": "ec82dbc76a55b1062f30eaa6d523bf57f2d52bba"
- */
-
 @Service
 public class MealPlannerService {
 	
